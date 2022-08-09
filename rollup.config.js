@@ -13,15 +13,5 @@ export default [
                 format: "esm"
             }
         ]
-    },
-    {
-        input: "src/async-event-emitter.js",
-        plugins: [minify({
-            comments: false
-        })],
-        output: {
-            file: "dist/async-event-emitter.min.js",
-            format: "esm"
-        }
-    }    
+    }   
 ];
