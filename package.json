@@ -1,6 +1,6 @@
 {
   "name": "@humanwhocodes/async-event-emitter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Async event emitter",
   "main": "dist/async-event-emitter.cjs",
   "module": "dist/async-event-emitter.js",
