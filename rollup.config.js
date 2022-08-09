@@ -1,5 +1,3 @@
-import minify from "rollup-plugin-babel-minify";
-
 export default [
     {
         input: "src/async-event-emitter.js",
