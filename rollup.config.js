@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Rollup config file
+ */
+
 export default [
     {
         input: "src/async-event-emitter.js",
