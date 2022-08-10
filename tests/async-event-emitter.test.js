@@ -8,7 +8,7 @@
 //-----------------------------------------------------------------------------
 
 import { AsyncEventEmitter } from "../src/async-event-emitter.js";
-import { assert, expect } from "chai";
+import { expect } from "chai";
 
 //-----------------------------------------------------------------------------
 // Tests

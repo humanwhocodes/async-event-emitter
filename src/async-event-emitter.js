@@ -108,7 +108,7 @@ export class AsyncEventEmitter {
         if (handlers) {
             
             const handlerIndex = handlers.indexOf(handler);
-            console.log(handlerIndex)
+
             if (handlerIndex > -1) {
                 handlers.splice(handlerIndex, 1);
             }
